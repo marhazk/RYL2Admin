@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NetSh]
+"ipv6mon"="ipv6mon.dll"
+"1"="ipmontr.dll"
+"2"="ifmon.dll"
+"3"="ippromon.dll"
+"4"="rasmontr.dll"
+"5"="ipxmontr.dll"
+"6"="ipxpromn.dll"
+"dgnet"="dgnet.dll"
+"hnetmon"="hnetmon.dll"
+"FWCFG"="fwcfg.dll"

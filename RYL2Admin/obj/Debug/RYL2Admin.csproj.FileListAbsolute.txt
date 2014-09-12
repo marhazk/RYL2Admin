@@ -1,0 +1,12 @@
+D:\projects\RYL2Admin\RYL2Admin\bin\Debug\RYL2Admin.exe.config
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.Main.resources
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.Properties.Resources.resources
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.csproj.GenerateResource.Cache
+D:\projects\RYL2Admin\RYL2Admin\bin\Debug\RYL2Admin.exe
+D:\projects\RYL2Admin\RYL2Admin\bin\Debug\RYL2Admin.pdb
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.exe
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.pdb
+D:\projects\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.csprojResolveAssemblyReference.cache
+D:\HDD\Pub\Dropbox\projects2\RYL2Admin\RYL2Admin\bin\Debug\RYL2Admin.exe.config
+D:\HDD\Pub\Dropbox\projects2\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.exe
+D:\HDD\Pub\Dropbox\projects2\RYL2Admin\RYL2Admin\obj\Debug\RYL2Admin.pdb
